@@ -1,4 +1,6 @@
 node_modules/
 dist/
+src/components/
+src/index.ts
 *.log
 .DS_Store
